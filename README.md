@@ -92,4 +92,4 @@ Perform the following: npm install -y, +inquirer, +jest
 
 ### Intended Usage
 
-To be able to create a user input prompt the user to build a database of assorted employees using
+To be able to create a user input prompt the user to build a database of assorted employees using Node CLI and generating a directory via HTML for future reference.
